@@ -10,7 +10,7 @@ The roof segment geometries for the configuration _small-manu_ are sourced from 
 
 ## Cite this repo
 
-To cite this repository, please use this [Zenodo}(https://zenodo.org) DOI.
+To cite this repository, please use this [Zenodo](https://zenodo.org) DOI.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7761783.svg)](https://doi.org/10.5281/zenodo.7761783)
 
