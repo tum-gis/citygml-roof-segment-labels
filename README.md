@@ -16,6 +16,6 @@ To cite this repository, please use this [Zenodo](https://zenodo.org) DOI.
 
 ## References
 
-[1] Faltermeier, F.L.; Krapf, S.; Willenborg, B.; Kolbe, T.H. (2023): *Improving Semantic Segmentation of Roof Segments Using Large-Scale Datasets Derived from 3D City Models and High-Resolution Aerial Imagery*. Remote Sens. 2023, 15, 1931. https://doi.org/10.3390/rs15071931
+[1] Faltermeier, F.L.; Krapf, S.; Willenborg, B.; Kolbe, T.H. (2023): _Improving Semantic Segmentation of Roof Segments Using Large-Scale Datasets Derived from 3D City Models and High-Resolution Aerial Imagery_. Remote Sens. 2023, 15, 1931. https://doi.org/10.3390/rs15071931
 
-[2] Krapf, S.; Bogenrieder, L.; Netzler, F.; Balke, G.; Lienkamp, M. (2022): *RID—Roof Information Dataset for Computer Vision-Based Photovoltaic Potential Assessment*. Remote Sens. 2022, 14, 2299. https://doi.org/10.3390/rs14102299
+[2] Krapf, S.; Bogenrieder, L.; Netzler, F.; Balke, G.; Lienkamp, M. (2022): _RID—Roof Information Dataset for Computer Vision-Based Photovoltaic Potential Assessment_. Remote Sens. 2022, 14, 2299. https://doi.org/10.3390/rs14102299
