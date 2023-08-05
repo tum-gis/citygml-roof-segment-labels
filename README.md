@@ -4,7 +4,7 @@ Generate datasets of roof segment labels for aerial imagery derived from CityGML
 
 ## Overview
 
-The notebook _dataset\_creation.ipynb_ provides steps and detailed instructions for the dataset creation (data pre-processing, generation of image and label files, data split). The roof segment geometries for all configurations are available in the subdirectory _segments_. The locations selected for validation and test sets are located in _val\_test\_locations_. To create custom datasets using the code provided here, make sure your data is structured identically to the data in these subdirectories.
+The file _query\_segments.sql_ contains code that can be used to obtain the roof segment geometries and compute their attributes (such as azimuth and slope) from a 3DCityDB instance. The notebook _dataset\_creation.ipynb_ provides steps and detailed instructions for the dataset creation (data pre-processing, generation of image and label files, data split). The roof segment geometries for all configurations as used in [1] are available in the subdirectory _segments_ (they were obtained using _query\_segments.sql_ and exported to CSV). The locations selected for validation and test sets are located in _val\_test\_locations_. To create custom datasets using the code provided here, make sure your data is structured identically to the data in these subdirectories.
 
 The roof segment geometries for the configuration _small-manu_ are sourced from [2].
 
